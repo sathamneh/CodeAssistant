@@ -1,0 +1,32 @@
+{
+    "repos": [
+        {
+            "name": "QA-Pilot",
+            "path": "VectorStore/QA-Pilot"
+        },
+        {
+            "name": "playground",
+            "path": "VectorStore/playground"
+        },
+        {
+            "name": "fhir-validator-wrapper",
+            "path": "VectorStore/fhir-validator-wrapper"
+        },
+        {
+            "name": "streamlit-example",
+            "path": "VectorStore/streamlit-example"
+        },
+        {
+            "name": "php-example",
+            "path": "VectorStore/php-example"
+        },
+        {
+            "name": "solid-php-example",
+            "path": "VectorStore/solid-php-example"
+        },
+        {
+            "name": "fhir-validator-app",
+            "path": "VectorStore/fhir-validator-app"
+        }
+    ]
+}
